@@ -1,0 +1,10 @@
+name: EasterEggs
+main: com.gmail.filoghost.eastereggs.EasterEggs
+version: 1.0
+depend: [WildCommons]
+
+commands:
+   eastereggs:
+      description: Aggiunge un easter egg.
+      usage: /<command>
+      aliases: [easteregg]

@@ -1,0 +1,10 @@
+
+commands:
+- 'eco give {player} 500'
+
+#broadcast: '&a&l{player} ha trovato un Easter Egg!'
+broadcast: ''
+
+private: '&a&lHai trovato un Easter Egg!'
+
+alreadyCollected: '&cHai già raccolto questo Easter Egg.'
